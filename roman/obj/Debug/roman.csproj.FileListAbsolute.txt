@@ -1,0 +1,8 @@
+E:\leetcode\roman\roman\bin\Debug\roman.exe.config
+E:\leetcode\roman\roman\bin\Debug\roman.exe
+E:\leetcode\roman\roman\bin\Debug\roman.pdb
+E:\leetcode\roman\roman\obj\Debug\roman.csproj.AssemblyReference.cache
+E:\leetcode\roman\roman\obj\Debug\roman.csproj.SuggestedBindingRedirects.cache
+E:\leetcode\roman\roman\obj\Debug\roman.csproj.CoreCompileInputs.cache
+E:\leetcode\roman\roman\obj\Debug\roman.exe
+E:\leetcode\roman\roman\obj\Debug\roman.pdb
